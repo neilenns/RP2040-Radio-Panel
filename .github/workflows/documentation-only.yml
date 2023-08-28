@@ -56,11 +56,11 @@ jobs:
         uses: actions/checkout@v3
 
       # Check out the custom component library for access to the 3D models.
-      # - name: Checkout component library
-      #   uses: actions/checkout@v3
-      #   with:
-      #     repository: neilenns/kicad6-components
-      #     path: KiCad6-Components
+      - name: Checkout component library
+        uses: actions/checkout@v3
+        with:
+          repository: neilenns/kicad6-components
+          path: KiCad6-Components
 
       # Get the version from the workflow input. This is only valid
       # when run manually as a workflow.
