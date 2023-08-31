@@ -2,6 +2,8 @@ preflight:
   set_text_variables:
     - variable: "KICAD6_USER_COMPONENTS_DIR"
       text: "${KIPRJMOD}/KiCad6-Components"
+    - variable: "KICAD_SIMPANEL_DIR"
+      text: "${KIPRJMOD}/kicad-sim-panel-components"
     - variable: "VERSION"
       command: echo $version
     - variable: "DATE"
