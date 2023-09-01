@@ -340,12 +340,28 @@
       "Six digit display1"
     ],
     [
-      "1f201713-f25b-40f7-bc55-db2855e4bca4",
+      "bca406fb-ee2e-4917-90af-40130c06b965",
+      "Six digit display3"
+    ],
+    [
+      "ba0877af-e539-4a32-889c-0d4babf075ad",
       "Six digit display2"
     ],
     [
-      "2edb8ac8-09da-4bd4-a8eb-34a55ac1e00a",
-      "Six digit display3"
+      "ef9e31f4-27b1-4c54-9ea9-263a0c2fa1de",
+      "Six digit display5"
+    ],
+    [
+      "ecda2fa6-ea2e-4012-87ae-8bf799f994a4",
+      "Six digit display6"
+    ],
+    [
+      "ec993082-c6bf-41cb-8e1b-47b8daeab953",
+      "Six digit display7"
+    ],
+    [
+      "bf881a42-8b68-4af3-a60e-695b5f2dff7b",
+      "Six digit display4"
     ]
   ],
   "text_variables": {
