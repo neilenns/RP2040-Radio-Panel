@@ -62,6 +62,13 @@ jobs:
           repository: neilenns/kicad6-components
           path: KiCad6-Components
 
+      # Check out the mobiflight component library for access to the 3D models.
+      - name: Checkout Mobiflight component library
+        uses: actions/checkout@v3
+        with:
+          repository: neilenns/kicad-sim-panel-components
+          path: kicad-sim-panel-components
+
       # Get the version from the workflow input. This is only valid
       # when run manually as a workflow.
       - name: Store workflow version

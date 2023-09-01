@@ -62,6 +62,13 @@ jobs:
           repository: neilenns/kicad6-components
           path: KiCad6-Components
 
+      # Check out the mobiflight component library for access to the 3D models.
+      - name: Checkout Mobiflight component library
+        uses: actions/checkout@v3
+        with:
+          repository: neilenns/kicad-sim-panel-components
+          path: kicad-sim-panel-components
+
       # Get the version of the GitHub release for use later. This is only valid
       # when run in a release context
       - name: Get GitHub release version

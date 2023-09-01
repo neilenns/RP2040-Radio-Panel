@@ -330,6 +330,22 @@
     [
       "99e5628a-8c61-4f9d-aa6e-5b585271b505",
       "RP2040"
+    ],
+    [
+      "07071a40-5503-42f8-bec1-54fc596bba3e",
+      "Six digit display"
+    ],
+    [
+      "9a77f1be-91b5-4371-9958-71e7eb8f6ea3",
+      "Six digit display1"
+    ],
+    [
+      "1f201713-f25b-40f7-bc55-db2855e4bca4",
+      "Six digit display2"
+    ],
+    [
+      "2edb8ac8-09da-4bd4-a8eb-34a55ac1e00a",
+      "Six digit display3"
     ]
   ],
   "text_variables": {
